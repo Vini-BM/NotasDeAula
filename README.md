@@ -3,7 +3,7 @@ Neste repositório estão algumas anotações que eu fiz durante os cursos de gr
 
 **As anotações podem estar incompletas ou conter erros!** Caso encontre algum, avise-me :)
 
-* [Introdução à Física Quântica]('Introdução à Física Quântica'): Mecânica quântica antiga; Equação de Schrödinger.
+* [Introdução à Física Quântica]('./Introdução à Física Quântica'): Mecânica quântica antiga; Equação de Schrödinger.
     * Efeitos fotoelétrico e Compton
     * Átomo de Bohr
     * Equação de Schrödinger
@@ -16,7 +16,7 @@ Neste repositório estão algumas anotações que eu fiz durante os cursos de gr
         Eisberg, R. Resnick, R. Física Quântica: Átomos, Moléculas, Sólidos, Núcleos e Partículas.
         Griffiths, D. J. Introduction to Quantum Mechanics.
 
-* [Mecânica Clássica I]('Mecânica Clássica I'): Mecânica newtoniana. Cobre os seguintes tópicos:
+* [Mecânica Clássica I]('./Mecânica Clássica I'): Mecânica newtoniana. Cobre os seguintes tópicos:
     * Dinâmica
     * Oscilações
     * Forças centrais
@@ -26,7 +26,7 @@ Neste repositório estão algumas anotações que eu fiz durante os cursos de gr
     Bibliografia principal:  
         Thornton, S. T. Marion, J. B. Classical dynamics of particles and systems.
 
-* [Mecânica Clássica II]('Mecânica Clássica II'): Mecânica lagrangiana e hamiltoniana.
+* [Mecânica Clássica II]('./Mecânica Clássica II'): Mecânica lagrangiana e hamiltoniana.
     * Cálculo variacional
     * Formalismo lagrangiano e hamiltoniano
     * Leis de conservação
@@ -36,7 +36,7 @@ Neste repositório estão algumas anotações que eu fiz durante os cursos de gr
         Lemos, N. A. Mecânica analítica.
         Notas de aula do professor.
 
-* [Mecânica Estatística]('Mecânica Estatística'): Probabilidade e estatística; termodinâmica; mecânica estatística clássica e quântica. Aborda os seguintes tópicos:
+* [Mecânica Estatística]('./Mecânica Estatística'): Probabilidade e estatística; termodinâmica; mecânica estatística clássica e quântica. Aborda os seguintes tópicos:
     * Caminhante aleatório
     * Equação da difusão
     * Ensembles microcanônico, canônico e grande canônico
