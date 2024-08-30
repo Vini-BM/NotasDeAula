@@ -3,7 +3,7 @@ Neste repositório estão algumas anotações que eu fiz durante os cursos de gr
 
 **As anotações podem estar incompletas ou conter erros!** Caso encontre algum, avise-me :)
 
-* [Introdução à Física Quântica]('./Introdução à Física Quântica'): Mecânica quântica antiga; Equação de Schrödinger.
+* [Introdução à Física Quântica](https://github.com/Vini-BM/NotasDeAula/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20F%C3%ADsica%20Qu%C3%A2ntica): Mecânica quântica antiga; Equação de Schrödinger.
     * Efeitos fotoelétrico e Compton
     * Átomo de Bohr
     * Equação de Schrödinger
@@ -16,7 +16,7 @@ Neste repositório estão algumas anotações que eu fiz durante os cursos de gr
         Eisberg, R. Resnick, R. Física Quântica: Átomos, Moléculas, Sólidos, Núcleos e Partículas.
         Griffiths, D. J. Introduction to Quantum Mechanics.
 
-* [Mecânica Clássica I](Mecânica Clássica I): Mecânica newtoniana. Cobre os seguintes tópicos:
+* [Mecânica Clássica I](https://github.com/Vini-BM/NotasDeAula/tree/main/Mec%C3%A2nica%20Cl%C3%A1ssica%20I): Mecânica newtoniana. Cobre os seguintes tópicos:
     * Dinâmica
     * Oscilações
     * Forças centrais
